@@ -1,0 +1,228 @@
+Label,contextRef,unitRef,Dec,Prec,Lang,Value
+Shareholder Fees Caption,v_Institutional_S000002853,,,,,Shareholder Fees (Fees paid directly from your investment)
+Operating Expenses Caption,v_Institutional_S000002853,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Bar Chart and Performance Table:,v_Institutional_S000002853,,,,,"Average Annual Total Returns for Periods Ended December 31, 2012"
+Bar Chart and Performance Table,v_Institutional_S000002853,,,,,Annual Total Returns
+Expenses Heading,v_Institutional_S000002853,,,,,Fees and Expenses
+Investment objective:,v_Institutional_S000002853,,,,,Investment Objective
+Risk:,v_Institutional_S000002853,,,,,Primary Risks
+Risk/Return,v_Institutional_S000002853,,,,,Risk/Return
+Strategy:,v_Institutional_S000002853,,,,,Primary Investment Strategies
+"PortfolioTurnover, Rate",v_Institutional_S000002853,pure,2,,,0.05
+Prospectus Date,v_Institutional_S000002853,,,,,2013-03-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Institutional_S000002853,,,,,"(reflects no deduction for fees, expenses, or taxes)"
+Bar Chart Narrative,v_Institutional_S000002853,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund's Institutional Shares  has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns of the share classes presented compare with those of the Fund's target index, which has investment characteristics similar to those of the Fund. Keep in mind that the Fund's past performance (before and after taxes) does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+EXAMPLE,v_Institutional_S000002853,,,,,<p>Examples</p>
+"Expense Example, Narrative [Text Block]",v_Institutional_S000002853,,,,,"<p>The following examples are intended to help you compare the cost of investing in the Fund's Institutional Shares or Institutional Plus Shares with the cost of investing in other mutual funds. They illustrate the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. These examples assume that the Shares provide a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Institutional_S000002853,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold Institutional Shares or Institutional Plus Shares of the Fund.</p>
+Investment objective,v_Institutional_S000002853,,,,,<p>The Fund seeks to track the performance of a benchmark index that measures the investment return of large-capitalization stocks.</p>
+Performance Table Closing,v_Institutional_S000002853,,,,,"<p>Actual after-tax returns depend on your tax situation and may differ from those shown in the preceding table. When after-tax returns are calculated, it is assumed that the shareholder was in the highest individual federal marginal income tax bracket at the time of each distribution of income or capital gains or upon redemption. State and local income taxes are not reflected in the calculations. Please note that after-tax returns are shown only for the Institutional Shares and may differ for each share class. After-tax returns are not relevant for a shareholder who holds fund shares in a tax-deferred account, such as an individual retirement account or a 401(k) plan. Also, figures captioned Return After Taxes on Distributions and Sale of Fund Shares will be higher than other figures for the same period if a capital loss occurs upon redemption and results in an assumed tax deduction for the shareholder.</p>"
+Portfolio Turnover Heading,v_Institutional_S000002853,,,,,<p>Portfolio Turnover</p>
+Portfolio Turnover,v_Institutional_S000002853,,,,,"<p>The Fund pays transaction costs, such as commissions, when it buys and sells securities (or 'turns over' its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in more taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the previous expense examples, reduce the Fund's performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 5%.</p>"
+May Lose Money,v_Institutional_S000002853,,,,,<p>An investment in the Fund could lose money over short or even long periods. </p>
+Risk Narrative,v_Institutional_S000002853,,,,,"<p>An investment in the Fund could lose money over short or even long periods. You should expect the Fund's share price and total return to fluctuate within a wide range, like the fluctuations of the overall stock market. The Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Stock market risk, which is the chance that stock prices overall will decline. Stock markets tend to move in cycles, with periods of rising prices and periods of falling prices. The Fund's target index may, at times, become focused in stocks of a particular sector, category, or group of companies, which could cause the Fund to underperform the overall stock market.</p><p>Investment style risk, which is the chance that returns from large-capitalization stocks will trail returns from the overall stock market. Large-cap stocks tend to go through cycles of doing better-or worse-than other segments of the stock market or the stock market in general. These periods have, in the past, lasted for as long as several years.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.</p>"
+StrategyNarrative,v_Institutional_S000002853,,,,,"<p>The Fund employs an indexing investment approach designed to track the performance of the Standard &#38; Poor's 500 Index, a widely recognized benchmark of U.S. stock market performance that is dominated by the stocks of large U.S. companies. The Fund attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the Index, holding each stock in approximately the same proportion as its weighting in the Index.</p>"
+Not Insured Depository Institution,v_Institutional_S000002853,,,,,<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.</p>
+Performance Information Illustrates Variability of Returns,v_Institutional_S000002853,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Availability Phone,v_Institutional_S000002853,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Institutional_S000002853,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Institutional_S000002853,,,,,<p>Keep in mind that the Fund's past performance (before and after taxes) does not indicate how the Fund will perform in the future. </p>
+Performance Table Uses Highest Federal Rate,v_Institutional_S000002853,,,,,"<p>When after-tax returns are calculated, it is assumed that the shareholder was in the highest individual federal marginal income tax bracket at the time of each distribution of income or capital gains or upon redemption.</p>"
+Performance Table Not Relevant to Tax Deferred,v_Institutional_S000002853,,,,,"<p>After-tax returns are not relevant for a shareholder who holds fund shares in a tax-deferred account, such as an individual retirement account or a 401(k) plan. </p>"
+One Class of After-Tax Shown,v_Institutional_S000002853,,,,,<p> Please note that after-tax returns are shown only for the Institutional Shares and may differ for each share class. </p>
+Performance Table Explains why after Tax Higher,v_Institutional_S000002853,,,,,"<p>Also, figures captioned Return After Taxes on Distributions and Sale of Fund Shares will be higher than other figures for the same period if a capital loss occurs upon redemption and results in an assumed tax deduction for the shareholder.</p>"
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Institutional_S000002853,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002853ShareholderFeesInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000002853Member ~ </div>"
+Performance,v_Institutional_S000002853,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002853PerformanceTableDataInstitutional column primary compact * row dei_LegalEntityAxis compact  vanguard_S000002853Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Institutional_S000002853,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002853OperatingExpensesInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000002853Member ~ </div>"
+"Expense Example, No Redemption",v_Institutional_S000002853,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002853ExpenseExampleNoRedemptionInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000002853Member ~ </div>"
+Shareholder Fees Caption,v_Institutional_S000002855,,,,,Shareholder Fees (Fees paid directly from your investment)
+Operating Expenses Caption,v_Institutional_S000002855,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Bar Chart and Performance Table:,v_Institutional_S000002855,,,,,"Average Annual Total Returns for Periods Ended December 31, 2012"
+Bar Chart and Performance Table,v_Institutional_S000002855,,,,,Annual Total Returns
+Expenses Heading,v_Institutional_S000002855,,,,,Fees and Expenses
+Investment objective:,v_Institutional_S000002855,,,,,Investment Objective
+Risk:,v_Institutional_S000002855,,,,,Primary Risks
+Risk/Return,v_Institutional_S000002855,,,,,Risk/Return
+Strategy:,v_Institutional_S000002855,,,,,Primary Investment Strategies
+"PortfolioTurnover, Rate",v_Institutional_S000002855,pure,2,,,0.08
+Prospectus Date,v_Institutional_S000002855,,,,,2013-03-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Institutional_S000002855,,,,,"(reflect no deduction for fees, expenses, or taxes)"
+Bar Chart Narrative,v_Institutional_S000002855,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund's Institutional Shares  has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns of the share classes presented compare with those of the Fund's target index and other comparative indexes, which have investment characteristics similar to those of the Fund. Keep in mind that the Fund's past performance (before and after taxes) does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+EXAMPLE,v_Institutional_S000002855,,,,,<p>Examples</p>
+"Expense Example, Narrative [Text Block]",v_Institutional_S000002855,,,,,"<p>The following examples are intended to help you compare the cost of investing in the Fund's Institutional Shares or Institutional Plus Shares with the cost of investing in other mutual funds. They illustrate the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. These examples assume that the Shares provide a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Institutional_S000002855,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold Institutional Shares or Institutional Plus Shares of the Fund.</p>
+Investment objective,v_Institutional_S000002855,,,,,<p>The Fund seeks to track the performance of a benchmark index that measures the investment return of the overall stock market.</p>
+Performance Table Closing,v_Institutional_S000002855,,,,,"<p>Actual after-tax returns depend on your tax situation and may differ from those shown in the preceding table. When after-tax returns are calculated, it is assumed that the shareholder was in the highest individual federal marginal income tax bracket at the time of each distribution of income or capital gains or upon redemption. State and local income taxes are not reflected in the calculations. Please note that after-tax returns are shown only for the Institutional Shares and may differ for each share class. After-tax returns are not relevant for a shareholder who holds fund shares in a tax-deferred account, such as an individual retirement account or a 401(k) plan. Also, figures captioned Return After Taxes on Distributions and Sale of Fund Shares will be higher than other figures for the same period if a capital loss occurs upon redemption and results in an assumed tax deduction for the shareholder.</p>"
+Portfolio Turnover Heading,v_Institutional_S000002855,,,,,<p>Portfolio Turnover</p>
+Portfolio Turnover,v_Institutional_S000002855,,,,,"<p>The Fund pays transaction costs, such as commissions, when it buys and sells securities (or 'turns over' its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in more taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the previous expense examples, reduce the Fund's performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 8%.</p>"
+May Lose Money,v_Institutional_S000002855,,,,,<p>An investment in the Fund could lose money over short or even long periods. </p>
+Risk Narrative,v_Institutional_S000002855,,,,,"<p>An investment in the Fund could lose money over short or even long periods. You should expect the Fund's share price and total return to fluctuate within a wide range, like the fluctuations of the overall stock market. The Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Stock market risk, which is the chance that stock prices overall will decline. Stock markets tend to move in cycles, with periods of rising prices and periods of falling prices. The Fund's target index may, at times, become focused in stocks of a particular sector, category, or group of companies.</p><p>Index sampling risk, which is the chance that the securities selected for the Fund, in the aggregate, will not provide investment performance matching that of the Fund's target index. Index sampling risk for the Fund should be low.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.</p>"
+StrategyNarrative,v_Institutional_S000002855,,,,,"<p>The Fund employs an indexing investment approach designed to track the performance of the CRSP US Total Market Index, which represents approximately 100% of the investable U.S. stock market and includes large-, mid-, small-, and micro-cap stocks regularly traded on the New York Stock Exchange and Nasdaq. The Fund invests by sampling the Index, meaning that it holds a broadly diversified collection of securities that, in the aggregate, approximates the full Index in terms of key characteristics. These key characteristics include industry weightings and market capitalization, as well as certain financial measures such as price/earnings ratio and dividend yield.</p>"
+Not Insured Depository Institution,v_Institutional_S000002855,,,,,<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.</p>
+Expenses Not Correlated to Ratio Due to Acquired Fund Fees,v_Institutional_S000002855,,,,,"<p>Acquired Fund Fees and Expenses' are expenses incurred indirectly by the Fund through its ownership of shares in other investment companies, such as business development companies. These expenses are similar to the expenses paid by any operating company held by the Fund. They are not direct costs paid by Fund shareholders and are not used to calculate the Fund's net asset value. They have no impact on the costs associated with fund operations. Acquired Fund Fees and Expenses are not included in the Fund's financial statements, which provide a clearer picture of a fund's actual operating costs.</p>"
+Performance Information Illustrates Variability of Returns,v_Institutional_S000002855,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Availability Phone,v_Institutional_S000002855,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Institutional_S000002855,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Institutional_S000002855,,,,,<p>Keep in mind that the Fund's past performance (before and after taxes) does not indicate how the Fund will perform in the future. </p>
+Performance Table Uses Highest Federal Rate,v_Institutional_S000002855,,,,,"<p>When after-tax returns are calculated, it is assumed that the shareholder was in the highest individual federal marginal income tax bracket at the time of each distribution of income or capital gains or upon redemption.</p>"
+Performance Table Not Relevant to Tax Deferred,v_Institutional_S000002855,,,,,"<p>After-tax returns are not relevant for a shareholder who holds fund shares in a tax-deferred account, such as an individual retirement account or a 401(k) plan. </p>"
+One Class of After-Tax Shown,v_Institutional_S000002855,,,,,<p> Please note that after-tax returns are shown only for the Institutional Shares and may differ for each share class. </p>
+Performance Table Explains why after Tax Higher,v_Institutional_S000002855,,,,,"<p>Also, figures captioned Return After Taxes on Distributions and Sale of Fund Shares will be higher than other figures for the same period if a capital loss occurs upon redemption and results in an assumed tax deduction for the shareholder.</p>"
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Institutional_S000002855,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002855ShareholderFeesInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000002855Member ~ </div>"
+Performance,v_Institutional_S000002855,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002855PerformanceTableDataInstitutional column primary compact * row dei_LegalEntityAxis compact  vanguard_S000002855Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Institutional_S000002855,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002855OperatingExpensesInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000002855Member ~ </div>"
+"Expense Example, No Redemption",v_Institutional_S000002855,,,,,"<div style=""display:none"">~ http://vanguard/role/S000002855ExpenseExampleNoRedemptionInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000002855Member ~ </div>"
+2012,v_S000002853_C000007825,pure,4,,,0.1598
+2011,v_S000002853_C000007825,pure,4,,,0.0209
+2010,v_S000002853_C000007825,pure,4,,,0.1505
+2009,v_S000002853_C000007825,pure,4,,,0.2663
+2008,v_S000002853_C000007825,pure,4,,,-0.3695
+2007,v_S000002853_C000007825,pure,4,,,0.0547
+2006,v_S000002853_C000007825,pure,4,,,0.1578
+2005,v_S000002853_C000007825,pure,4,,,0.0491
+2004,v_S000002853_C000007825,pure,4,,,0.1086
+2003,v_S000002853_C000007825,pure,4,,,0.2866
+Annual Return Inception Date,v_S000002853_C000007825,,,,,1990-07-31
+Bar Chart Highest Quarterly Return,v_S000002853_C000007825,pure,4,,,0.1601
+Bar Chart Lowest Quarter Return,v_S000002853_C000007825,pure,4,,,-0.2191
+Bar Chart Highest Quarterly Return Date,v_S000002853_C000007825,,,,,2009-06-30
+Bar Chart Lowest Quarter Return Date,v_S000002853_C000007825,,,,,2008-12-31
+Bar Chart:,v_Institutional_S000002853,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000007825Member ~ </div>"
+Bar Chart,v_Institutional_S000002853,,,,,Annual Total Returns - Vanguard Institutional Index Fund Institutional Shares
+Bar Chart Closing,v_Institutional_S000002853,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 16.01% (quarter ended June 30, 2009 ), and the lowest return for a quarter was -21.91% (quarter ended December 31, 2008 ).</p>"
+Highest Quarterly Return Label,v_Institutional_S000002853,,,,,"(quarter ended June 30, 2009 )"
+Lowest Quarterly Return Label,v_Institutional_S000002853,,,,,"(quarter ended December 31, 2008 )"
+Inception Date,v_S000002853_C000007825,,,,,1990-07-31
+One Year,v_S000002853_C000007825,pure,4,,,0.1598
+Five Years,v_S000002853_C000007825,pure,4,,,0.0169
+Ten Years,v_S000002853_C000007825,pure,4,,,0.0711
+One Year,v_S000002853_C000007825_AfterTaxesOnDistributionsMember,pure,4,,,0.1560
+Five Years,v_S000002853_C000007825_AfterTaxesOnDistributionsMember,pure,4,,,0.0135
+Ten Years,v_S000002853_C000007825_AfterTaxesOnDistributionsMember,pure,4,,,0.0678
+One Year,v_S000002853_C000007825_AfterTaxesOnDistributionsAndSalesMember,pure,4,,,0.1088
+Five Years,v_S000002853_C000007825_AfterTaxesOnDistributionsAndSalesMember,pure,4,,,0.0138
+Ten Years,v_S000002853_C000007825_AfterTaxesOnDistributionsAndSalesMember,pure,4,,,0.0621
+Purchase Fee,v_S000002853_C000007825,pure,4,,,0.0000
+Redemption Fee,v_S000002853_C000007825,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000002853_C000007825,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000002853_C000007825,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000002853_C000007825,pure,4,,,0.0000
+1 YEAR,v_S000002853_C000007825,usd,4,,,4.0000
+3 YEAR,v_S000002853_C000007825,usd,4,,,13.0000
+5 YEAR,v_S000002853_C000007825,usd,4,,,23.0000
+10 YEAR,v_S000002853_C000007825,usd,4,,,51.0000
+Management Expenses,v_S000002853_C000007825,pure,4,,,0.0004
+12b-1 Distribution Fee,v_S000002853_C000007825,pure,4,,,0.0000
+Other Expenses,v_S000002853_C000007825,pure,5,,,0.00000
+Total Annual Fund Operating Expenses,v_S000002853_C000007825,pure,4,,,0.0004
+Inception Date,v_S000002853_C000007826,,,,,1997-07-07
+One Year,v_S000002853_C000007826,pure,4,,,0.1600
+Five Years,v_S000002853_C000007826,pure,4,,,0.0172
+Ten Years,v_S000002853_C000007826,pure,4,,,0.0714
+Purchase Fee,v_S000002853_C000007826,pure,4,,,0.0000
+Redemption Fee,v_S000002853_C000007826,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000002853_C000007826,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000002853_C000007826,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000002853_C000007826,pure,4,,,0.0000
+1 YEAR,v_S000002853_C000007826,usd,4,,,2.0000
+3 YEAR,v_S000002853_C000007826,usd,4,,,6.0000
+5 YEAR,v_S000002853_C000007826,usd,4,,,11.0000
+10 YEAR,v_S000002853_C000007826,usd,4,,,26.0000
+Management Expenses,v_S000002853_C000007826,pure,4,,,0.0002
+12b-1 Distribution Fee,v_S000002853_C000007826,pure,4,,,0.0000
+Other Expenses,v_S000002853_C000007826,pure,5,,,0.00000
+Total Annual Fund Operating Expenses,v_S000002853_C000007826,pure,4,,,0.0002
+2012,v_S000002855_C000007828,pure,4,,,0.1647
+2011,v_S000002855_C000007828,pure,4,,,0.0109
+2010,v_S000002855_C000007828,pure,4,,,0.1728
+2009,v_S000002855_C000007828,pure,4,,,0.2884
+2008,v_S000002855_C000007828,pure,4,,,-0.3690
+2007,v_S000002855_C000007828,pure,4,,,0.0560
+2006,v_S000002855_C000007828,pure,4,,,0.1574
+2005,v_S000002855_C000007828,pure,4,,,0.0614
+2004,v_S000002855_C000007828,pure,4,,,0.1265
+2003,v_S000002855_C000007828,pure,4,,,0.3170
+Annual Return Inception Date,v_S000002855_C000007828,,,,,2001-08-31
+Bar Chart Highest Quarterly Return,v_S000002855_C000007828,pure,4,,,0.1696
+Bar Chart Lowest Quarter Return,v_S000002855_C000007828,pure,4,,,-0.2265
+Bar Chart Highest Quarterly Return Date,v_S000002855_C000007828,,,,,2009-06-30
+Bar Chart Lowest Quarter Return Date,v_S000002855_C000007828,,,,,2008-12-31
+Bar Chart:,v_Institutional_S000002855,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000007828Member ~ </div>"
+Bar Chart,v_Institutional_S000002855,,,,,Annual Total Returns - Vanguard Institutional Total Stock Market Index Fund Institutional Shares
+Bar Chart Closing,v_Institutional_S000002855,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 16.96% (quarter ended June 30, 2009 ), and the lowest return for a quarter was -22.65% (quarter ended December 31, 2008 ).</p>"
+Highest Quarterly Return Label,v_Institutional_S000002855,,,,,"(quarter ended June 30, 2009 )"
+Lowest Quarterly Return Label,v_Institutional_S000002855,,,,,"(quarter ended December 31, 2008 )"
+Inception Date,v_S000002855_C000007828,,,,,2001-08-31
+One Year,v_S000002855_C000007828,pure,4,,,0.1647
+Five Years,v_S000002855_C000007828,pure,4,,,0.0234
+Ten Years,v_S000002855_C000007828,pure,4,,,0.0801
+Comparative Benchmark,v_S000002855_C000007828,,,,,Comparative Indexes
+One Year,v_S000002855_C000007828_AfterTaxesOnDistributionsMember,pure,4,,,0.1606
+Five Years,v_S000002855_C000007828_AfterTaxesOnDistributionsMember,pure,4,,,0.0200
+Ten Years,v_S000002855_C000007828_AfterTaxesOnDistributionsMember,pure,4,,,0.0769
+One Year,v_S000002855_C000007828_AfterTaxesOnDistributionsAndSalesMember,pure,4,,,0.1116
+Five Years,v_S000002855_C000007828_AfterTaxesOnDistributionsAndSalesMember,pure,4,,,0.0192
+Ten Years,v_S000002855_C000007828_AfterTaxesOnDistributionsAndSalesMember,pure,4,,,0.0701
+Purchase Fee,v_S000002855_C000007828,pure,4,,,0.0000
+Redemption Fee,v_S000002855_C000007828,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000002855_C000007828,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000002855_C000007828,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000002855_C000007828,pure,4,,,0.0000
+1 YEAR,v_S000002855_C000007828,usd,4,,,4.0000
+3 YEAR,v_S000002855_C000007828,usd,4,,,13.0000
+5 YEAR,v_S000002855_C000007828,usd,4,,,23.0000
+10 YEAR,v_S000002855_C000007828,usd,4,,,51.0000
+Management Expenses,v_S000002855_C000007828,pure,4,,,0.0004
+12b-1 Distribution Fee,v_S000002855_C000007828,pure,5,,,0.00000
+Other Expenses,v_S000002855_C000007828,pure,5,,,0.00000
+Total Annual Fund Operating Expenses,v_S000002855_C000007828,pure,4,,,0.0004
+Inception Date,v_S000002855_C000007829,,,,,2001-05-31
+One Year,v_S000002855_C000007829,pure,4,,,0.1653
+Five Years,v_S000002855_C000007829,pure,4,,,0.0237
+Ten Years,v_S000002855_C000007829,pure,4,,,0.0804
+Comparative Benchmark,v_S000002855_C000007829,,,,,Comparative Indexes
+Purchase Fee,v_S000002855_C000007829,pure,4,,,0.0000
+Redemption Fee,v_S000002855_C000007829,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000002855_C000007829,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000002855_C000007829,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000002855_C000007829,pure,4,,,0.0000
+1 YEAR,v_S000002855_C000007829,usd,4,,,2.0000
+3 YEAR,v_S000002855_C000007829,usd,4,,,6.0000
+5 YEAR,v_S000002855_C000007829,usd,4,,,11.0000
+10 YEAR,v_S000002855_C000007829,usd,4,,,26.0000
+Management Expenses,v_S000002855_C000007829,pure,4,,,0.0002
+12b-1 Distribution Fee,v_S000002855_C000007829,pure,5,,,0.00000
+Other Expenses,v_S000002855_C000007829,pure,5,,,0.00000
+Total Annual Fund Operating Expenses,v_S000002855_C000007829,pure,4,,,0.0002
+One Year,v_S000002853_C000007825_StandardnPoors500IndexMember,pure,4,,,0.1600
+Five Years,v_S000002853_C000007825_StandardnPoors500IndexMember,pure,4,,,0.0166
+Ten Years,v_S000002853_C000007825_StandardnPoors500IndexMember,pure,4,,,0.0710
+One Year,v_S000002853_C000007826_StandardnPoors500IndexMember,pure,4,,,0.1600
+Five Years,v_S000002853_C000007826_StandardnPoors500IndexMember,pure,4,,,0.0166
+Ten Years,v_S000002853_C000007826_StandardnPoors500IndexMember,pure,4,,,0.0710
+One Year,v_S000002855_C000007828_MSCIUSBroadMarketIndexMember,pure,4,,,0.1644
+Five Years,v_S000002855_C000007828_MSCIUSBroadMarketIndexMember,pure,4,,,0.0227
+Ten Years,v_S000002855_C000007828_MSCIUSBroadMarketIndexMember,pure,4,,,0.0000
+One Year,v_S000002855_C000007829_MSCIUSBroadMarketIndexMember,pure,4,,,0.1644
+Five Years,v_S000002855_C000007829_MSCIUSBroadMarketIndexMember,pure,4,,,0.0227
+Ten Years,v_S000002855_C000007829_MSCIUSBroadMarketIndexMember,pure,4,,,0.0000
+One Year,v_S000002855_C000007828_SplicedInstitutionalTotalStockMarketIndexMember,pure,4,,,0.1644
+Five Years,v_S000002855_C000007828_SplicedInstitutionalTotalStockMarketIndexMember,pure,4,,,0.0227
+Ten Years,v_S000002855_C000007828_SplicedInstitutionalTotalStockMarketIndexMember,pure,4,,,0.0797
+One Year,v_S000002855_C000007829_SplicedInstitutionalTotalStockMarketIndexMember,pure,4,,,0.1644
+Five Years,v_S000002855_C000007829_SplicedInstitutionalTotalStockMarketIndexMember,pure,4,,,0.0227
+Ten Years,v_S000002855_C000007829_SplicedInstitutionalTotalStockMarketIndexMember,pure,4,,,0.0797
+One Year,v_S000002855_C000007828_DowJonesUSTotalStockMarketFloatAdjustedIMember,pure,4,,,0.1638
+Five Years,v_S000002855_C000007828_DowJonesUSTotalStockMarketFloatAdjustedIMember,pure,4,,,0.0221
+Ten Years,v_S000002855_C000007828_DowJonesUSTotalStockMarketFloatAdjustedIMember,pure,4,,,0.0795
+One Year,v_S000002855_C000007829_DowJonesUSTotalStockMarketFloatAdjustedIMember,pure,4,,,0.1638
+Five Years,v_S000002855_C000007829_DowJonesUSTotalStockMarketFloatAdjustedIMember,pure,4,,,0.0221
+Ten Years,v_S000002855_C000007829_DowJonesUSTotalStockMarketFloatAdjustedIMember,pure,4,,,0.0795
+Document Creation Date,v,,,,,2013-03-28
+Document Effective Date,v,,,,,2013-03-28
+Document Period End Date,v,,,,,2012-12-31
+Document Type,v,,,,,485BPOS
+Registrant Name,v,,,,,Vanguard Institutional Index Funds
+Central Index Key,v,,,,,0000862084
+Amendment Flag,v,,,,,false
+Risk/Return Detail [Table],v,,,,,"<div style=""display: none"">~ http://xbrl.sec.gov/rr/role/RiskReturnDetailData column period compact * row dei_DocumentInformationDocumentAxis compact * row dei_LegalEntityAxis compact * row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * row primary compact * ~ </div>"

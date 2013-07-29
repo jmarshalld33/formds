@@ -1,0 +1,247 @@
+﻿body{
+	
+	background:rgb(79, 78, 80);
+	 
+	min-width:700px;
+}	
+
+#top{
+	line-height: 150px;
+	background: none repeat scroll 0 0 #000000;
+    height: 110px !important;
+    position: relative;
+    width: 100% !important;
+    z-index: 10000;
+	color:white;
+}
+a.blkLogo {
+    float: left;
+    height: 84px;
+    left: 0;
+    padding: 26px 0 0;
+    position: static;
+    text-align: left;
+    top: 0;
+    width: 240px;
+}
+a.blkLogo:hover{
+	color:none;
+}
+
+#ischool img{
+float:right;
+background-color:white;
+width:160px;
+height:auto;
+margin-top:40px;
+margin-bottom:0px;
+margin-right:5px;
+padding:5px;
+}
+
+#globalNav {
+    background: #5D6B72;
+    position: relative;
+	display: block;
+    padding:1px;
+}
+
+#menu li a{
+	color:yellow;
+}
+
+#menu li a:hover{
+   color:#FF6840;
+}
+
+#menu {
+	 display: block;
+    height: 32px;
+	padding:3px;
+}
+
+ul{
+padding-left:0px;
+padding-bottom:1px;
+margin-bottom:3px;
+margin-top:3.5px;
+}
+
+ul li{
+display: inline;
+padding: 3px;
+margin: 0px 0px 0px 30px;
+border-style:dotted;
+border-width:2px;
+border-color: white;
+/*color: rgb(255, 255, 255);*/
+}
+
+#menu li {
+	display: inline;
+	font-size: 11pt;
+	font-family: Georgia, Sans-Serif;
+	
+}
+
+/*#menu li a:visited {
+	color: yellow;
+}*/
+
+
+#filterformds {
+	background-image: url("background1.jpg");
+	background-repeat:repeat-x;
+	color:white;
+	margin-left: 80px;
+	margin-right:80px;
+	margin-top: 20px;
+	margin-bottom:0;
+    padding: 35px 0 0 18px;
+    position: relative;
+    width: auto;
+	
+}
+#home{
+	background-image: url("globalmainbanner.jpg");
+	background-repeat:no-repeat;
+	height: auto;
+    left: 10%;
+    min-height: 100%;
+    min-width: 1024px;
+    padding: 155px;
+	margin-top:20px;
+    position: fixed
+   
+}
+
+#about{
+	background-image: url("about.jpg");
+    visibility: visible;
+	border: 0 none;
+    color: #FFFFFF;
+    font-size: 30px;
+    height: 40px;
+    left: 0;
+    margin-left: 80px;
+	margin-right:80px;
+	margin-top: 20px;
+	margin-bottom:0;
+    padding: 125px 0 0 18px;
+    position: relative;
+    width: auto;
+}
+.content{
+	font-family:"Arial";
+	background-color: white;
+	margin-left:80px;
+	margin-right:80px;
+	margin-top:0px;
+	border-color:rgb(0, 121, 193);
+	padding:30px 40px 40px 40px;
+}
+.content.a{
+	color:rgb(0,121,193);
+}
+
+select {
+	border: 1px solid #CCCCCC;
+    border-radius: 3px 3px 3px 3px;
+	background: #778899;
+	display:inline-block;
+	/*width:260px;*/
+   	padding: 5px;
+   	font-size: 16px;
+   	height: 34px;
+   	-webkit-appearance: none;
+	color:white;
+}
+
+/*.options{
+color:black;
+}*/
+.button {
+	margin: 1em;
+	margin-left: 30px;
+   	width: 110px;
+	border: 1px solid;
+	padding: .3em;
+	border: 1.5px solid white;
+	padding: 8px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #039;
+	background: #b9c9fe;	
+	display:inline-block;
+}
+
+.button:hover {
+    border-color: #039;
+	
+}
+
+
+.default{
+	color: white;
+}
+
+#welcome{
+	
+}
+
+.data{
+	color:white;
+}
+.selected {
+	background-color: white !important;
+}
+#rounded-corner
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin: 30px;
+	width: 480px;
+	text-align: left;
+	border-collapse: collapse;
+}
+#rounded-corner thead th.rounded-q1
+{
+	background: #b9c9fe url('table-images/left.png') left -1px no-repeat;
+}
+#rounded-corner thead th.rounded-q4
+{
+	background: #b9c9fe url('table-images/right.png') right -1px no-repeat;
+}
+#rounded-corner th
+{
+	padding: 8px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #039;
+	background: #b9c9fe;
+}
+#rounded-corner td
+{
+	padding: 8px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+}
+#rounded-corner tfoot td.rounded-foot-left
+{
+	background: #e8edff url('table-images/botleft.png') left bottom no-repeat;
+}
+#rounded-corner tfoot td.rounded-foot-right
+{
+	background: #e8edff url('table-images/botright.png') right bottom no-repeat;
+}
+#rounded-corner tbody tr:hover td
+{
+	background: #d0dafd;
+}
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}

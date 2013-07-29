@@ -1,0 +1,322 @@
+Label,contextRef,unitRef,Dec,Prec,Lang,Value
+Shareholder Fees Caption,v_Retail_S000004462,,,,,Shareholder Fees (Fees paid directly from your investment)
+Shareholder Fees Caption,v_Participant_S000004462,,,,,Shareholder Fees (Fees paid directly from your investment)
+Operating Expenses Caption,v_Retail_S000004462,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Operating Expenses Caption,v_Participant_S000004462,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Bar Chart and Performance Table:,v_Retail_S000004462,,,,,"Average Annual Total Returns for Periods Ended December 31, 2011"
+Bar Chart and Performance Table:,v_Participant_S000004462,,,,,"Average Annual Total Returns for Periods Ended December 31, 2011"
+Bar Chart and Performance Table,v_Participant_S000004462,,,,,Annual Total Returns
+Expenses Heading,v_Participant_S000004462,,,,,Fees and Expenses
+Investment objective:,v_Participant_S000004462,,,,,Investment Objective
+Risk:,v_Participant_S000004462,,,,,Primary Risks
+Risk/Return,v_Participant_S000004462,,,,,Risk/Return
+Strategy:,v_Participant_S000004462,,,,,Primary Investment Policies
+Prospectus Date,v_Participant_S000004462,,,,,2012-12-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Participant_S000004462,,,,,(reflects no deduction for fees or expenses)
+Bar Chart and Performance Table,v_Retail_S000004462,,,,,Annual Total Returns
+Expenses Heading,v_Retail_S000004462,,,,,Fees and Expenses
+Investment objective:,v_Retail_S000004462,,,,,Investment Objective
+Risk:,v_Retail_S000004462,,,,,Primary Risks
+Risk/Return,v_Retail_S000004462,,,,,Risk/Return
+Strategy:,v_Retail_S000004462,,,,,Primary Investment Policies
+Prospectus Date,v_Retail_S000004462,,,,,2012-12-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Retail_S000004462,,,,,(reflects no deduction for fees or expenses)
+EXAMPLE,v_Participant_S000004462,,,,,<p>Example</p>
+"Expense Example, Narrative [Text Block]",v_Participant_S000004462,,,,,"<p>The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. It illustrates the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. This example assumes that the Fund provides a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Participant_S000004462,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold shares of the Fund.</p>
+Investment objective,v_Participant_S000004462,,,,,<p>The Fund seeks to provide current income while maintaining liquidity and a stable share price of $1.</p>
+Performance Narrative,v_Participant_S000004462,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns compare with those of a relevant market index and a comparative benchmark, which have investment characteristics similar to those of the Fund. Returns for the U.S. Government Money Market Funds Average are derived from data provided by Lipper Inc. Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+Risk Narrative,v_Participant_S000004462,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Income risk, which is the chance that the Fund's income will decline because of falling interest rates. Because the Fund's income is based on short-term interest rates-which can fluctuate significantly over short periods-income risk is expected to be high.</p><p>Manager risk, which is the chance that poor security selection will cause the Fund to underperform relevant benchmarks or other funds with a similar investment objective. </p><p>Credit risk, which is the chance that the issuer of a security will fail to pay interest and principal in a timely manner, or that negative perceptions of the issuer's ability to make such payments will cause the price of that security to decline. Credit risk should be very low for the Fund because it invests primarily in securities that are considered to be of high quality.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+StrategyNarrative,v_Participant_S000004462,,,,,"<p>The Fund invests primarily in high-quality, short-term money market instruments. At least 80% of the Fund's assets are invested in securities issued by the U.S. government and its agencies and instrumentalities. Although these securities are high-quality, most of the securities held by the Fund are neither guaranteed by the U.S. Treasury nor supported by the full faith and credit of the U.S. government. To be considered high-quality, a security generally must be rated in one of the two highest credit-quality categories for short-term securities by at least two nationally recognized rating services (or by one, if only one rating service has rated the security). The Fund maintains a dollar-weighted average maturity of 60 days or less and a dollar-weighted average life of 120 days or less.</p>"
+Not Insured Depository Institution,v_Participant_S000004462,,,,,"<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+Money Market Fund,v_Participant_S000004462,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p>"
+Performance Information Illustrates Variability of Returns,v_Participant_S000004462,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Additional Market Index,v_Participant_S000004462,,,,,"<p>, which have investment characteristics similar to those of the Fund.</p>"
+Performance Availability Phone,v_Participant_S000004462,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Participant_S000004462,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Participant_S000004462,,,,,<p>Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future.</p>
+EXAMPLE,v_Retail_S000004462,,,,,<p>Example</p>
+"Expense Example, Narrative [Text Block]",v_Retail_S000004462,,,,,"<p>The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. It illustrates the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. This example assumes that the Fund provides a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Retail_S000004462,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold shares of the Fund.</p>
+Investment objective,v_Retail_S000004462,,,,,<p>The Fund seeks to provide current income while maintaining liquidity and a stable share price of $1.</p>
+Performance Narrative,v_Retail_S000004462,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns compare with those of a relevant market index and a comparative benchmark, which have investment characteristics similar to those of the Fund. Returns for the U.S. Government Money Market Funds Average are derived from data provided by Lipper Inc. Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+Risk Narrative,v_Retail_S000004462,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Income risk, which is the chance that the Fund's income will decline because of falling interest rates. Because the Fund's income is based on short-term interest rates-which can fluctuate significantly over short periods-income risk is expected to be high.</p><p>Manager risk, which is the chance that poor security selection will cause the Fund to underperform relevant benchmarks or other funds with a similar investment objective. </p><p>Credit risk, which is the chance that the issuer of a security will fail to pay interest and principal in a timely manner, or that negative perceptions of the issuer's ability to make such payments will cause the price of that security to decline. Credit risk should be very low for the Fund because it invests primarily in securities that are considered to be of high quality.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+StrategyNarrative,v_Retail_S000004462,,,,,"<p>The Fund invests primarily in high-quality, short-term money market instruments. At least 80% of the Fund's assets are invested in securities issued by the U.S. government and its agencies and instrumentalities. Although these securities are high-quality, most of the securities held by the Fund are neither guaranteed by the U.S. Treasury nor supported by the full faith and credit of the U.S. government. To be considered high-quality, a security generally must be rated in one of the two highest credit-quality categories for short-term securities by at least two nationally recognized rating services (or by one, if only one rating service has rated the security). The Fund maintains a dollar-weighted average maturity of 60 days or less and a dollar-weighted average life of 120 days or less.</p>"
+Not Insured Depository Institution,v_Retail_S000004462,,,,,"<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+Money Market Fund,v_Retail_S000004462,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p>"
+Performance Information Illustrates Variability of Returns,v_Retail_S000004462,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Additional Market Index,v_Retail_S000004462,,,,,"<p>, which have investment characteristics similar to those of the Fund.</p>"
+Performance Availability Phone,v_Retail_S000004462,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Retail_S000004462,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Retail_S000004462,,,,,<p>Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future.</p>
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Retail_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462ShareholderFeesRetail column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004462Member ~ </div>"
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Participant_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462ShareholderFeesParticipant column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004462Member ~ </div>"
+Performance,v_Retail_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462PerformanceTableDataRetail column primary compact * row dei_LegalEntityAxis compact  vanguard_S000004462Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Performance,v_Participant_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462PerformanceTableDataParticipant column primary compact * row dei_LegalEntityAxis compact  vanguard_S000004462Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Retail_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462OperatingExpensesRetail column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004462Member ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Participant_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462OperatingExpensesParticipant column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004462Member ~ </div>"
+"Expense Example, No Redemption",v_Retail_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462ExpenseExampleNoRedemptionRetail column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004462Member ~ </div>"
+"Expense Example, No Redemption",v_Participant_S000004462,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004462ExpenseExampleNoRedemptionParticipant column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004462Member ~ </div>"
+Shareholder Fees Caption,v_Retail_S000004463,,,,,Shareholder Fees (Fees paid directly from your investment)
+Shareholder Fees Caption,v_Participant_S000004463,,,,,Shareholder Fees (Fees paid directly from your investment)
+Shareholder Fees Caption,v_Institutional_S000004463,,,,,Shareholder Fees (Fees paid directly from your investment)
+Operating Expenses Caption,v_Retail_S000004463,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Operating Expenses Caption,v_Participant_S000004463,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Operating Expenses Caption,v_Institutional_S000004463,,,,,Annual Fund Operating Expenses (Expenses that you pay each year as a percentage of the value of your investment)
+Bar Chart and Performance Table:,v_Retail_S000004463,,,,,"Average Annual Total Returns for Periods Ended December 31, 2011"
+Bar Chart and Performance Table:,v_Participant_S000004463,,,,,"Average Annual Total Returns for Periods Ended December 31, 2011"
+Bar Chart and Performance Table:,v_Institutional_S000004463,,,,,"Average Annual Total Returns for Periods Ended December 31, 2011"
+Bar Chart and Performance Table,v_Institutional_S000004463,,,,,Annual Total Returns
+Expenses Heading,v_Institutional_S000004463,,,,,Fees and Expenses
+Investment objective:,v_Institutional_S000004463,,,,,Investment Objective
+Risk:,v_Institutional_S000004463,,,,,Primary Risks
+Risk/Return,v_Institutional_S000004463,,,,,Risk/Return
+Strategy:,v_Institutional_S000004463,,,,,Primary Investment Policies
+Prospectus Date,v_Institutional_S000004463,,,,,2012-12-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Institutional_S000004463,,,,,(reflects no deduction for fees or expenses)
+Bar Chart and Performance Table,v_Participant_S000004463,,,,,Annual Total Returns
+Expenses Heading,v_Participant_S000004463,,,,,Fees and Expenses
+Investment objective:,v_Participant_S000004463,,,,,Investment Objective
+Risk:,v_Participant_S000004463,,,,,Primary Risks
+Risk/Return,v_Participant_S000004463,,,,,Risk/Return
+Strategy:,v_Participant_S000004463,,,,,Primary Investment Policies
+Prospectus Date,v_Participant_S000004463,,,,,2012-12-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Participant_S000004463,,,,,(reflects no deduction for fees or expenses)
+Bar Chart and Performance Table,v_Retail_S000004463,,,,,Annual Total Returns
+Expenses Heading,v_Retail_S000004463,,,,,Fees and Expenses
+Investment objective:,v_Retail_S000004463,,,,,Investment Objective
+Risk:,v_Retail_S000004463,,,,,Primary Risks
+Risk/Return,v_Retail_S000004463,,,,,Risk/Return
+Strategy:,v_Retail_S000004463,,,,,Primary Investment Policies
+Prospectus Date,v_Retail_S000004463,,,,,2012-12-28
+"Index No Deduction for Fees, Expenses, Taxes",v_Retail_S000004463,,,,,(reflects no deduction for fees or expenses)
+Bar Chart Narrative,v_Institutional_S000004463,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund's Institutional Shares has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns of the Fund's Institutional Shares compare with those of a relevant market index and a comparative benchmark, which have investment characteristics similar to those of the Fund. Returns for the Institutional Money Market Funds Average are derived from data provided by Lipper Inc. Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+EXAMPLE,v_Institutional_S000004463,,,,,<p>Example</p>
+"Expense Example, Narrative [Text Block]",v_Institutional_S000004463,,,,,"<p>The following example is intended to help you compare the cost of investing in the Fund's Institutional Shares with the cost of investing in other mutual funds. It illustrates the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. This example assumes that the Shares provide a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Institutional_S000004463,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold Institutional Shares of the Fund.</p>
+Investment objective,v_Institutional_S000004463,,,,,<p>The Fund seeks to provide current income while maintaining liquidity and a stable share price of $1.</p>
+Risk Narrative,v_Institutional_S000004463,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Income risk, which is the chance that the Fund's income will decline because of falling interest rates. Because the Fund's income is based on short-term interest rates-which can fluctuate significantly over short periods-income risk is expected to be high.</p><p>Manager risk, which is the chance that poor security selection will cause the Fund to underperform relevant benchmarks or other funds with a similar investment objective. </p><p>Credit risk, which is the chance that the issuer of a security will fail to pay interest and principal in a timely manner, or that negative perceptions of the issuer's ability to make such payments will cause the price of that security to decline. Credit risk should be very low for the Fund because it invests primarily in securities that are considered to be of high quality.</p><p>Industry concentration risk, which is the chance that there will be overall problems affecting a particular industry. Because the Fund invests more than 25% of its assets in securities issued by companies in the financial services industry, the Fund's performance depends to a greater extent on the overall condition of that industry.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+StrategyNarrative,v_Institutional_S000004463,,,,,"<p>The Fund invests primarily in high-quality, short-term money market instruments, including certificates of deposit, banker's acceptances, commercial paper, and other money market securities. To be considered high-quality, a security generally must be rated in one of the two highest credit-quality categories for short-term securities by at least two nationally recognized rating services (or by one, if only one rating service has rated the security). If unrated, the security must be determined by Vanguard to be of quality equivalent to securities in the two highest credit-quality categories. The Fund invests more than 25% of its assets in securities issued by companies in the financial services industry. The Fund maintains a dollar-weighted average maturity of 60 days or less and a dollar-weighted average life of 120 days or less.</p>"
+Not Insured Depository Institution,v_Institutional_S000004463,,,,,"<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+Money Market Fund,v_Institutional_S000004463,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p>"
+Performance Information Illustrates Variability of Returns,v_Institutional_S000004463,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Availability Phone,v_Institutional_S000004463,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Institutional_S000004463,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Institutional_S000004463,,,,,<p>Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future.</p>
+Bar Chart Narrative,v_Participant_S000004463,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund's Investor Shares has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns of the Fund's Investor Shares compare with those of a relevant market index and a comparative benchmark, which have investment characteristics similar to those of the Fund. Returns for the Money Market Funds Average are derived from data provided by Lipper Inc. Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+EXAMPLE,v_Participant_S000004463,,,,,<p>Example</p>
+"Expense Example, Narrative [Text Block]",v_Participant_S000004463,,,,,"<p>The following example is intended to help you compare the cost of investing in the Fund's Investor Shares with the cost of investing in other mutual funds. It illustrates the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. This example assumes that the Shares provide a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Participant_S000004463,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold Investor Shares of the Fund.</p>
+Investment objective,v_Participant_S000004463,,,,,<p>The Fund seeks to provide current income while maintaining liquidity and a stable share price of $1.</p>
+May Lose Money,v_Participant_S000004463,,,,,"<p>The Fund is subject to the risks associated with the stock and bond markets, any of which could cause an investor to lose money.</p>"
+Risk Narrative,v_Participant_S000004463,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Income risk, which is the chance that the Fund's income will decline because of falling interest rates. Because the Fund's income is based on short-term interest rates-which can fluctuate significantly over short periods-income risk is expected to be high.</p><p>Manager risk, which is the chance that poor security selection will cause the Fund to underperform relevant benchmarks or other funds with a similar investment objective. </p><p>Credit risk, which is the chance that the issuer of a security will fail to pay interest and principal in a timely manner, or that negative perceptions of the issuer's ability to make such payments will cause the price of that security to decline. Credit risk should be very low for the Fund because it invests primarily in securities that are considered to be of high quality.</p><p>Industry concentration risk, which is the chance that there will be overall problems affecting a particular industry. Because the Fund invests more than 25% of its assets in securities issued by companies in the financial services industry, the Fund's performance depends to a greater extent on the overall condition of that industry.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+StrategyNarrative,v_Participant_S000004463,,,,,"<p>The Fund invests primarily in high-quality, short-term money market instruments, including certificates of deposit, banker's acceptances, commercial paper, and other money market securities. To be considered high-quality, a security generally must be rated in one of the two highest credit-quality categories for short-term securities by at least two nationally recognized rating services (or by one, if only one rating service has rated the security). If unrated, the security must be determined by Vanguard to be of quality equivalent to securities in the two highest credit-quality categories. The Fund invests more than 25% of its assets in securities issued by companies in the financial services industry. The Fund maintains a dollar-weighted average maturity of 60 days or less and a dollar-weighted average life of 120 days or less.</p>"
+Not Insured Depository Institution,v_Participant_S000004463,,,,,"<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+Money Market Fund,v_Participant_S000004463,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p>"
+Performance Information Illustrates Variability of Returns,v_Participant_S000004463,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Additional Market Index,v_Participant_S000004463,,,,,"<p>, which have investment characteristics similar to those of the Fund.</p>"
+Performance Availability Phone,v_Participant_S000004463,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Participant_S000004463,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Participant_S000004463,,,,,<p>Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future.</p>
+Bar Chart Narrative,v_Retail_S000004463,,,,,"<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund's Investor Shares has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns of the Fund's Investor Shares compare with those of a relevant market index and a comparative benchmark, which have investment characteristics similar to those of the Fund. Returns for the Money Market Funds Average are derived from data provided by Lipper Inc. Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.</p>"
+EXAMPLE,v_Retail_S000004463,,,,,<p>Example</p>
+"Expense Example, Narrative [Text Block]",v_Retail_S000004463,,,,,"<p>The following example is intended to help you compare the cost of investing in the Fund's Investor Shares with the cost of investing in other mutual funds. It illustrates the hypothetical expenses that you would incur over various periods if you invest $10,000 in the Fund's shares. This example assumes that the Shares provide a return of 5% a year and that total annual fund operating expenses remain as stated in the preceding table. The results apply whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:</p>"
+Fees and Expenses of the Fund,v_Retail_S000004463,,,,,<p>The following table describes the fees and expenses you may pay if you buy and hold Investor Shares of the Fund.</p>
+Investment objective,v_Retail_S000004463,,,,,<p>The Fund seeks to provide current income while maintaining liquidity and a stable share price of $1.</p>
+Risk Narrative,v_Retail_S000004463,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p><p>Income risk, which is the chance that the Fund's income will decline because of falling interest rates. Because the Fund's income is based on short-term interest rates-which can fluctuate significantly over short periods-income risk is expected to be high.</p><p>Manager risk, which is the chance that poor security selection will cause the Fund to underperform relevant benchmarks or other funds with a similar investment objective. </p><p>Credit risk, which is the chance that the issuer of a security will fail to pay interest and principal in a timely manner, or that negative perceptions of the issuer's ability to make such payments will cause the price of that security to decline. Credit risk should be very low for the Fund because it invests primarily in securities that are considered to be of high quality.</p><p>Industry concentration risk, which is the chance that there will be overall problems affecting a particular industry. Because the Fund invests more than 25% of its assets in securities issued by companies in the financial services industry, the Fund's performance depends to a greater extent on the overall condition of that industry.</p><p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+StrategyNarrative,v_Retail_S000004463,,,,,"<p>The Fund invests primarily in high-quality, short-term money market instruments, including certificates of deposit, banker's acceptances, commercial paper, and other money market securities. To be considered high-quality, a security generally must be rated in one of the two highest credit-quality categories for short-term securities by at least two nationally recognized rating services (or by one, if only one rating service has rated the security). If unrated, the security must be determined by Vanguard to be of quality equivalent to securities in the two highest credit-quality categories. The Fund invests more than 25% of its assets in securities issued by companies in the financial services industry. The Fund maintains a dollar-weighted average maturity of 60 days or less and a dollar-weighted average life of 120 days or less.</p>"
+Not Insured Depository Institution,v_Retail_S000004463,,,,,"<p>An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although the Fund seeks to preserve the value of your investment at $1 per share, it is possible to lose money by investing in the Fund.</p>"
+Money Market Fund,v_Retail_S000004463,,,,,"<p>The Fund is designed for investors with a low tolerance for risk; however, the Fund is subject to the following risks, which could affect the Fund's performance:</p>"
+Performance Information Illustrates Variability of Returns,v_Retail_S000004463,,,,,<p>The following bar chart and table are intended to help you understand the risks of investing in the Fund.</p>
+Performance Additional Market Index,v_Retail_S000004463,,,,,"<p>, which have investment characteristics similar to those of the Fund.</p>"
+Performance Availability Phone,v_Retail_S000004463,,,,,<p>800-662-7447</p>
+Performance Availability Website Address,v_Retail_S000004463,,,,,<p>vanguard.com/performance </p>
+Past Performance Does Not Indiciate Future Returns,v_Retail_S000004463,,,,,<p>Keep in mind that the Fund's past performance does not indicate how the Fund will perform in the future.</p>
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Retail_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463ShareholderFeesRetail column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Participant_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463ShareholderFeesParticipant column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+Shareholder Fees (Fees paid directly from your investment) [Table],v_Institutional_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463ShareholderFeesInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+Performance,v_Retail_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463PerformanceTableDataRetail column primary compact * row dei_LegalEntityAxis compact  vanguard_S000004463Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Performance,v_Participant_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463PerformanceTableDataParticipant column primary compact * row dei_LegalEntityAxis compact  vanguard_S000004463Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Performance,v_Institutional_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463PerformanceTableDataInstitutional column primary compact * row dei_LegalEntityAxis compact  vanguard_S000004463Member row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Retail_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463OperatingExpensesRetail column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Participant_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463OperatingExpensesParticipant column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+Annual Fund Operating Expenses [Expenses that you pay each year as a percentage of the value of your investment],v_Institutional_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463OperatingExpensesInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+"Expense Example, No Redemption",v_Retail_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463ExpenseExampleNoRedemptionRetail column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+"Expense Example, No Redemption",v_Participant_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463ExpenseExampleNoRedemptionParticipant column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+"Expense Example, No Redemption",v_Institutional_S000004463,,,,,"<div style=""display:none"">~ http://vanguard/role/S000004463ExpenseExampleNoRedemptionInstitutional column period compact * column rr_ProspectusShareClassAxis compact * row primary compact * row dei_LegalEntityAxis compact vanguard_S000004463Member ~ </div>"
+2011,v_S000004463_C000012239,pure,4,,,0.0005
+2010,v_S000004463_C000012239,pure,4,,,0.0006
+2009,v_S000004463_C000012239,pure,4,,,0.0053
+2008,v_S000004463_C000012239,pure,4,,,0.0277
+2007,v_S000004463_C000012239,pure,4,,,0.0514
+2006,v_S000004463_C000012239,pure,4,,,0.0488
+2005,v_S000004463_C000012239,pure,4,,,0.0301
+2004,v_S000004463_C000012239,pure,4,,,0.0111
+2003,v_S000004463_C000012239,pure,4,,,0.0090
+2002,v_S000004463_C000012239,pure,4,,,0.0165
+Annual Return Inception Date,v_S000004463_C000012239,,,,,1975-06-04
+Bar Chart Highest Quarterly Return,v_S000004463_C000012239,pure,4,,,0.0129
+Bar Chart Lowest Quarter Return,v_S000004463_C000012239,pure,4,,,0.0001
+Bar Chart Highest Quarterly Return Date,v_S000004463_C000012239,,,,,2006-12-31
+Bar Chart Lowest Quarter Return Date,v_S000004463_C000012239,,,,,2010-03-31
+Bar Chart:,v_Retail_S000004463,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000012239Member ~ </div>"
+Bar Chart,v_Retail_S000004463,,,,,Annual Total Returns - Vanguard Prime Money Market Fund Investor Shares
+Bar Chart Footnotes,v_Retail_S000004463,,,,,"<p>1 The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012 was 0.03%</p>"
+Year to Date Return Label,v_Retail_S000004463,,,,,"The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012"
+Bar Chart Closing,v_Retail_S000004463,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 1.29% (quarter ended December 31, 2006 ), and the lowest return for a quarter was 0.01% (quarter ended March 31, 2010 ).</p>"
+Highest Quarterly Return Label,v_Retail_S000004463,,,,,"(quarter ended December 31, 2006 )"
+Lowest Quarterly Return Label,v_Retail_S000004463,,,,,"(quarter ended March 31, 2010 )"
+Bar Chart:,v_Participant_S000004463,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000012239Member ~ </div>"
+Bar Chart,v_Participant_S000004463,,,,,Annual Total Returns - Vanguard Prime Money Market Fund Investor Shares
+Bar Chart Footnotes,v_Participant_S000004463,,,,,"<p>1 The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012 was 0.03%</p>"
+Year to Date Return Label,v_Participant_S000004463,,,,,"The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012"
+Bar Chart Closing,v_Participant_S000004463,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 1.29% (quarter ended December 31, 2006 ), and the lowest return for a quarter was 0.01% (quarter ended March 31, 2010 ).</p>"
+Highest Quarterly Return Label,v_Participant_S000004463,,,,,"(quarter ended December 31, 2006 )"
+Lowest Quarterly Return Label,v_Participant_S000004463,,,,,"(quarter ended March 31, 2010 )"
+Date,v_S000004463_C000012239,,,,,2012-09-30
+Year to Date Return,v_S000004463_C000012239,pure,4,,,0.0003
+Inception Date,v_S000004463_C000012239,,,,,1975-06-04
+One Year,v_S000004463_C000012239,pure,4,,,0.0005
+Five Years,v_S000004463_C000012239,pure,4,,,0.0169
+Ten Years,v_S000004463_C000012239,pure,4,,,0.0199
+Comparative Benchmark,v_S000004463_C000012239,,,,,Comparative Benchmarks
+Purchase Fee,v_S000004463_C000012239,pure,4,,,0.0000
+Redemption Fee,v_S000004463_C000012239,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000004463_C000012239,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000004463_C000012239,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000004463_C000012239,pure,4,,,0.0000
+1 YEAR,v_S000004463_C000012239,usd,4,,,16.0000
+3 YEAR,v_S000004463_C000012239,usd,4,,,52.0000
+5 YEAR,v_S000004463_C000012239,usd,4,,,90.0000
+10 YEAR,v_S000004463_C000012239,usd,4,,,205.0000
+Management Expenses,v_S000004463_C000012239,pure,4,,,0.0013
+12b-1 Distribution Fee,v_S000004463_C000012239,pure,4,,,0.0000
+Other Expenses,v_S000004463_C000012239,pure,4,,,0.0003
+Total Annual Fund Operating Expenses,v_S000004463_C000012239,pure,4,,,0.0016
+2011,v_S000004462_C000012238,pure,4,,,0.0001
+2010,v_S000004462_C000012238,pure,4,,,0.0002
+2009,v_S000004462_C000012238,pure,4,,,0.0040
+2008,v_S000004462_C000012238,pure,4,,,0.0253
+2007,v_S000004462_C000012238,pure,4,,,0.0507
+2006,v_S000004462_C000012238,pure,4,,,0.0481
+2005,v_S000004462_C000012238,pure,4,,,0.0296
+2004,v_S000004462_C000012238,pure,4,,,0.0108
+2003,v_S000004462_C000012238,pure,4,,,0.0089
+2002,v_S000004462_C000012238,pure,4,,,0.0164
+Annual Return Inception Date,v_S000004462_C000012238,,,,,1981-07-13
+Bar Chart Highest Quarterly Return,v_S000004462_C000012238,pure,4,,,0.0128
+Bar Chart Lowest Quarter Return,v_S000004462_C000012238,pure,4,,,0.0000
+Bar Chart Highest Quarterly Return Date,v_S000004462_C000012238,,,,,2006-12-31
+Bar Chart Lowest Quarter Return Date,v_S000004462_C000012238,,,,,2011-09-30
+Bar Chart:,v_Retail_S000004462,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000012238Member ~ </div>"
+Bar Chart,v_Retail_S000004462,,,,,Annual Total Returns - Vanguard Federal Money Market Fund Investor Shares
+Bar Chart Footnotes,v_Retail_S000004462,,,,,"<p>1 The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012 was 0.01%</p>"
+Year to Date Return Label,v_Retail_S000004462,,,,,"The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012"
+Bar Chart Closing,v_Retail_S000004462,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 1.28% (quarter ended December 31, 2006 ), and the lowest return for a quarter was 0.00% (quarter ended September 30, 2011 ).</p>"
+Highest Quarterly Return Label,v_Retail_S000004462,,,,,"(quarter ended December 31, 2006 )"
+Lowest Quarterly Return Label,v_Retail_S000004462,,,,,"(quarter ended September 30, 2011 )"
+Bar Chart:,v_Participant_S000004462,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000012238Member ~ </div>"
+Bar Chart,v_Participant_S000004462,,,,,Annual Total Returns - Vanguard Federal Money Market Fund Investor Shares
+Bar Chart Footnotes,v_Participant_S000004462,,,,,"<p>1 The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012 was 0.01%</p>"
+Year to Date Return Label,v_Participant_S000004462,,,,,"The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012"
+Bar Chart Closing,v_Participant_S000004462,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 1.28% (quarter ended December 31, 2006 ), and the lowest return for a quarter was 0.00% (quarter ended September 30, 2011 ).</p>"
+Highest Quarterly Return Label,v_Participant_S000004462,,,,,"(quarter ended December 31, 2006 )"
+Lowest Quarterly Return Label,v_Participant_S000004462,,,,,"(quarter ended September 30, 2011 )"
+Date,v_S000004462_C000012238,,,,,2012-09-30
+Year to Date Return,v_S000004462_C000012238,pure,4,,,0.0001
+Inception Date,v_S000004462_C000012238,,,,,1981-07-13
+One Year,v_S000004462_C000012238,pure,4,,,0.0001
+Five Years,v_S000004462_C000012238,pure,4,,,0.0159
+Ten Years,v_S000004462_C000012238,pure,4,,,0.0193
+Comparative Benchmark,v_S000004462_C000012238,,,,,Comparative Benchmarks
+Purchase Fee,v_S000004462_C000012238,pure,4,,,0.0000
+Redemption Fee,v_S000004462_C000012238,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000004462_C000012238,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000004462_C000012238,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000004462_C000012238,pure,4,,,0.0000
+1 YEAR,v_S000004462_C000012238,usd,4,,,16.0000
+3 YEAR,v_S000004462_C000012238,usd,4,,,52.0000
+5 YEAR,v_S000004462_C000012238,usd,4,,,90.0000
+10 YEAR,v_S000004462_C000012238,usd,4,,,205.0000
+Management Expenses,v_S000004462_C000012238,pure,4,,,0.0014
+12b-1 Distribution Fee,v_S000004462_C000012238,pure,4,,,0.0000
+Other Expenses,v_S000004462_C000012238,pure,4,,,0.0002
+Total Annual Fund Operating Expenses,v_S000004462_C000012238,pure,4,,,0.0016
+2011,v_S000004463_C000012240,pure,4,,,0.0014
+2010,v_S000004463_C000012240,pure,4,,,0.0020
+2009,v_S000004463_C000012240,pure,4,,,0.0068
+2008,v_S000004463_C000012240,pure,4,,,0.0293
+2007,v_S000004463_C000012240,pure,4,,,0.0530
+2006,v_S000004463_C000012240,pure,4,,,0.0508
+2005,v_S000004463_C000012240,pure,4,,,0.0321
+2004,v_S000004463_C000012240,pure,4,,,0.0133
+2003,v_S000004463_C000012240,pure,4,,,0.0111
+2002,v_S000004463_C000012240,pure,4,,,0.0188
+Annual Return Inception Date,v_S000004463_C000012240,,,,,1989-10-03
+Bar Chart Highest Quarterly Return,v_S000004463_C000012240,pure,4,,,0.0134
+Bar Chart Lowest Quarter Return,v_S000004463_C000012240,pure,4,,,0.0003
+Bar Chart Highest Quarterly Return Date,v_S000004463_C000012240,,,,,2006-12-31
+Bar Chart Lowest Quarter Return Date,v_S000004463_C000012240,,,,,2011-09-30
+Bar Chart:,v_Institutional_S000004463,,,,,"<div style=""display:none"">~ http://xbrl.sec.gov/rr/role/BarChartData column rr_ProspectusShareClassAxis compact vanguard_C000012240Member ~ </div>"
+Bar Chart,v_Institutional_S000004463,,,,,Annual Total Returns - Vanguard Prime Money Market Fund Institutional Shares
+Bar Chart Footnotes,v_Institutional_S000004463,,,,,"<p>1 The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012 was 0.08%</p>"
+Year to Date Return Label,v_Institutional_S000004463,,,,,"The year-to-date return as of the most recent calendar quarter, which ended on September 30, 2012"
+Bar Chart Closing,v_Institutional_S000004463,,,,,"<p>During the periods shown in the bar chart, the highest return for a calendar quarter was 1.34% (quarter ended December 31, 2006 ), and the lowest return for a quarter was 0.03% (quarter ended September 30, 2011 ).</p>"
+Highest Quarterly Return Label,v_Institutional_S000004463,,,,,"(quarter ended December 31, 2006 )"
+Lowest Quarterly Return Label,v_Institutional_S000004463,,,,,"(quarter ended September 30, 2011 )"
+Date,v_S000004463_C000012240,,,,,2012-09-30
+Year to Date Return,v_S000004463_C000012240,pure,4,,,0.0008
+Inception Date,v_S000004463_C000012240,,,,,1989-10-03
+One Year,v_S000004463_C000012240,pure,4,,,0.0014
+Five Years,v_S000004463_C000012240,pure,4,,,0.0183
+Ten Years,v_S000004463_C000012240,pure,4,,,0.0217
+Comparative Benchmark,v_S000004463_C000012240,,,,,Comparative Benchmarks
+Purchase Fee,v_S000004463_C000012240,pure,4,,,0.0000
+Redemption Fee,v_S000004463_C000012240,pure,4,,,0.0000
+"Account Service Fee (for fund account balances below $10,000)",v_S000004463_C000012240,usd,4,,,20.0000
+Sales charge (load) imposed on purchases,v_S000004463_C000012240,pure,4,,,0.0000
+Sales charge (load) imposed on reinvested dividends,v_S000004463_C000012240,pure,4,,,0.0000
+1 YEAR,v_S000004463_C000012240,usd,4,,,9.0000
+3 YEAR,v_S000004463_C000012240,usd,4,,,29.0000
+5 YEAR,v_S000004463_C000012240,usd,4,,,51.0000
+10 YEAR,v_S000004463_C000012240,usd,4,,,115.0000
+Management Expenses,v_S000004463_C000012240,pure,4,,,0.0006
+12b-1 Distribution Fee,v_S000004463_C000012240,pure,4,,,0.0000
+Other Expenses,v_S000004463_C000012240,pure,4,,,0.0003
+Total Annual Fund Operating Expenses,v_S000004463_C000012240,pure,4,,,0.0009
+"Index No Deduction for Fees, Expenses, Taxes",v_Retail_S000004462_C000012238_Citigroup3MonthUSTreasuryBillIndexMember,,,,,(reflects no deduction for fees or expenses)
+"Index No Deduction for Fees, Expenses, Taxes",v_Participant_S000004462_C000012238_Citigroup3MonthUSTreasuryBillIndexMember,,,,,(reflects no deduction for fees or expenses)
+One Year,v_S000004462_C000012238_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0008
+Five Years,v_S000004462_C000012238_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0136
+Ten Years,v_S000004462_C000012238_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0185
+"Index No Deduction for Fees, Expenses, Taxes",v_Retail_S000004462_C000012238_USGovernmentMoneyMarketFundsAverageMember,,,,,
+"Index No Deduction for Fees, Expenses, Taxes",v_Participant_S000004462_C000012238_USGovernmentMoneyMarketFundsAverageMember,,,,,
+One Year,v_S000004462_C000012238_USGovernmentMoneyMarketFundsAverageMember,pure,4,,,0.0000
+Five Years,v_S000004462_C000012238_USGovernmentMoneyMarketFundsAverageMember,pure,4,,,0.0123
+Ten Years,v_S000004462_C000012238_USGovernmentMoneyMarketFundsAverageMember,pure,4,,,0.0150
+"Index No Deduction for Fees, Expenses, Taxes",v_Retail_S000004463_C000012239_Citigroup3MonthUSTreasuryBillIndexMember,,,,,(reflects no deduction for fees or expenses)
+"Index No Deduction for Fees, Expenses, Taxes",v_Participant_S000004463_C000012239_Citigroup3MonthUSTreasuryBillIndexMember,,,,,(reflects no deduction for fees or expenses)
+One Year,v_S000004463_C000012239_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0008
+Five Years,v_S000004463_C000012239_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0136
+Ten Years,v_S000004463_C000012239_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0185
+"Index No Deduction for Fees, Expenses, Taxes",v_Institutional_S000004463_C000012240_Citigroup3MonthUSTreasuryBillIndexMember,,,,,(reflects no deduction for fees or expenses)
+One Year,v_S000004463_C000012240_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0008
+Five Years,v_S000004463_C000012240_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0136
+Ten Years,v_S000004463_C000012240_Citigroup3MonthUSTreasuryBillIndexMember,pure,4,,,0.0185
+"Index No Deduction for Fees, Expenses, Taxes",v_Retail_S000004463_C000012239_MoneyMarketFundsAverageMember,,,,,
+"Index No Deduction for Fees, Expenses, Taxes",v_Participant_S000004463_C000012239_MoneyMarketFundsAverageMember,,,,,
+One Year,v_S000004463_C000012239_MoneyMarketFundsAverageMember,pure,4,,,0.0000
+Five Years,v_S000004463_C000012239_MoneyMarketFundsAverageMember,pure,4,,,0.0133
+Ten Years,v_S000004463_C000012239_MoneyMarketFundsAverageMember,pure,4,,,0.0152
+"Index No Deduction for Fees, Expenses, Taxes",v_Institutional_S000004463_C000012240_InstitutionalMoneyMarketFundsAverageMember,,,,,
+One Year,v_S000004463_C000012240_InstitutionalMoneyMarketFundsAverageMember,pure,4,,,0.0002
+Five Years,v_S000004463_C000012240_InstitutionalMoneyMarketFundsAverageMember,pure,4,,,0.0157
+Ten Years,v_S000004463_C000012240_InstitutionalMoneyMarketFundsAverageMember,pure,4,,,0.0186
+Document Creation Date,v,,,,,2012-12-28
+Document Effective Date,v,,,,,2012-12-28
+Document Period End Date,v,,,,,2012-08-31
+Document Type,v,,,,,485BPOS
+Registrant Name,v,,,,,Vanguard Money Market Reserves
+Central Index Key,v,,,,,0000106830
+Amendment Flag,v,,,,,false
+Risk/Return Detail [Table],v,,,,,"<div style=""display: none"">~ http://xbrl.sec.gov/rr/role/RiskReturnDetailData column period compact * row dei_DocumentInformationDocumentAxis compact * row dei_LegalEntityAxis compact * row rr_ProspectusShareClassAxis compact * row rr_PerformanceMeasureAxis compact * row primary compact * ~ </div>"

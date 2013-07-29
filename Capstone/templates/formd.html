@@ -1,0 +1,200 @@
+{% block head %}
+	<script type="text/javascript">
+  		$(document).ready(function() {
+			$("th").hover(function() {
+				this.style.cursor = "pointer";
+			});
+
+			$("tr").click(function() {
+				this.style.backgroundcolor = "#6f697d";
+			});
+	
+			$("#newPlayers").click(function() {
+				$("#new_amended_select").val("new");
+				$("#formDForm").submit();
+			});		
+			$("#100mPlayers").click(function() {
+ 				$("#sold_select").val("100000000");
+ 				$("#formDForm").submit();
+ 			});	
+ 			$("#100bPlayers").click(function() {
+ 				$("#sold_select").val("100000000000");
+ 				$("#formDForm").submit();
+ 			});	
+			$("#nyPlayers").click(function() {
+ 				$("#city_select").val("NEW YORK");
+ 				$("#formDForm").submit();
+ 			});		
+			$("#sfPlayers").click(function() {
+ 				$("#city_select").val("SAN FRANCISCO");
+ 				$("#formDForm").submit();
+ 			});		 
+			$("#laPlayers").click(function() {
+ 				$("#city_select").val("LOS ANGELES");
+ 				$("#formDForm").submit();
+ 			});		 						 				
+  		});
+	</script>
+
+{% endblock %}
+
+{% extends 'base.html' %}
+
+{% block body %}
+<div class='container' id='formDContainer'>
+<div class='container-fluid'>
+<div class='row-fluid' >
+<div class='span3'>
+	<ul class="nav nav-list" id='quickLinks'>
+		<li class="nav-header">Who's New?</li>
+		<li><a href="#" id='newPlayers'>Find the new players</a></li>
+		<li class="nav-header">Big Players</li>
+		<li><a href="#" id='100mPlayers'>$100M+ players</a></li>
+		<li><a href="#" id='100bPlayers'>$100B+ players</a></li>
+		<li class="nav-header">Find Players in a City</li>
+		<li><a href="#" id='nyPlayers'>Find players in N.Y.</a></li>
+		<li><a href="#" id='sfPlayers'>Find players in S.F.</a></li>
+		<li><a href="#" id='laPlayers'>Find players in L.A.</a></li>
+	</ul>
+</div>
+<div class='span9' id='filterformds'>
+<h3>Advanced Filter</h3>
+<form method='post' action='{{ url_for('formd')  }}' id='formDForm'>
+	<div class="row">
+ 	<div class="span4">
+ <!-- 	
+ 	<div class="input-append date datepicker" id="start_date_select" name="start_date_select" data-date="{{ dates["today"] }}" data-date-format="mm-dd-yyyy">
+  		<input class="span2" size="16" type="text" value="{{ dates["today"] }}">
+	</div>
+ 	
+ 	<div class="input-append date datepicker" id="end_date_select" name="end_date_select" data-date="{{ dates["today"] }}" data-date-format="mm-dd-yyyy">
+  		<input class="span2" size="16" type="text" value="{{ dates["today"] }}">
+	</div>
+ -->
+	<select name="date_select" id='date_select'>
+		<option value="">All Dates</option>
+		<option value="{{ dates["today"] }}">Today</option>
+		<option value="{{ dates["lastweek"] }}">Last Week</option>
+		<option value="{{ dates["lastmonth"] }}">Last Month</option>
+	</select>
+	</div>
+	<div class="span4">
+	<select name="offering_select" id='offering_select'>
+		<option value="all">All Offering Amounts</option>
+		<option value="0-100000000000">All Definite Offering Amounts</option>
+		<option value="0-1000000">Below $1 Million</option>
+		<option value="1000000-5000000">$1 - $5 Million</option>
+		<option value="5000000-10000000">$5 - $10 Million</option>
+		<option value="10000000-100000000">$10 - $100 Million</option>
+		<option value="100000000-100000000000">$100+ Million</option>
+		<option value="Indefinite">Indefinite</option>
+	</select>
+	</div>
+	<div class="span4">
+	<select name="new_amended_select" id='new_amended_select'>
+		<option value="newandamended">New & Amended</option>
+		<option value="new">New Filings</option>
+		<option value="amended">Amended Filings</option>
+	</select>
+	</div>
+	</div>
+	<div class="row">
+	<div class="span4">
+	<select name="investment_type_select" id='investment_type_select'>
+		<option value='all'>All Investment Types</option>
+		<option value="Hedge Fund">Hedge Funds</option>
+		<option value="Venture Capital Fund">Venture Capital Funds</option>
+		<option value="Private Equity Fund">Private Equity Funds</option>
+		<option value="Other Investment Fund">Other Investment Funds</option>
+	</select>
+	</div>
+	<div class="span4">
+	<select name="tier_select" id='tier_select'>
+		<option value="all">All Tiers</option>
+		<option value="1" disabled="disabled">Tier 1 (NY, NJ, CT, CA, DL, MA)</option>
+		<option value="2">Tier 2 (FL, PA, IL, WA, TX)</option>
+		<option value="3">Tier 3 (Remaining States)</option>
+	</select>
+	</div>
+    
+    <input type='hidden' name='sold_select' id='sold_select' value=''>
+    <input type='hidden' name='city_select' id='city_select' value=''>
+    
+	<div class="span4">    
+ 	   <button type="submit" class="btn btn-success">Search!</button>
+    </div>	
+    </div>
+    <div>
+
+	</div>
+</form>
+</div>
+</div>
+<div class='span11'>
+<hr>
+</div>
+<div class='row-fluid'>
+<div class='span12'>
+<div id="exportToExcel">
+	{% if formds %}
+		<button id="removeRows" class="btn btn-inverse"><i class='icon-align-justify'></i>Isolate Rows</button>
+
+<!-- 
+	#	<input type="button" id="btnExport" value="Export to Excel" class="btn" />	
+ -->
+		<button class="btn btn-success" id="btnExport" ><i class='icon-download'></i>Export to Excel</button>
+
+		<table id="rounded-corner" class="sortable table table-condensed table-hover">
+		<thead>
+		<th scope="col" class="rounded-q1">Fund</th>
+		<th scope="col">Type</th>
+<!-- 
+		<th scope="col">New or Amended</th>
+ -->
+		<th scope="col" id='subDate'>Submission Date<span id="sorttable_sortfwdind">▾</span></th>
+			
+		<th scope="col">Offering Amount</th>
+		<th scope="col">Sold Amount</th>
+		<th scope="col">Location</th>
+		<th scope="col">Google</th>
+		<th scope="col">Edgar</th> 
+		</thead>
+		<tfoot>
+	    	<tr>
+	        	<td colspan="4" class="rounded-foot-left">&nbsp;</td>
+	        	<td class="rounded-foot-right">&nbsp;</td>
+	        </tr>
+		</tfoot>
+		{% for formd in formds %}
+			<tr class='selectable'>
+				<td><a href={{formd.url}}> {{ formd.Issuer.Name}}</a> </td>
+				<td>{{ formd.InvestmentFundType }}</td>
+<!-- 
+				<td>{% if formd.Amended == 1 %}
+							Amended 
+					{% else %}
+							New
+					{% endif %}</td>
+ -->
+				<td>{{ formd.SubmissionDate }}</td>
+				<td>{% if formd.IsTotalOfferingAmountIndefinite == 1 %}
+						Indefinite
+					{% else %}
+					 	{{formd.TotalOfferingAmount}} 
+					{% endif %}</td>
+				<td>{{ formd.TotalAmountSold }}</td>
+				<td>{{ formd.Issuer.City|title}}, {{formd.Issuer.Country|title}}</td>
+				<td class='iconSearch'><a href="https://www.google.com/search?q={{formd.Issuer.Name.replace(" ", "+")}}"><i class="icon-search"></i></a></td>
+				<td class='iconSearch'><a href="http://www.sec.gov/cgi-bin/browse-edgar?company={{formd.Issuer.Name.replace(" ", "+")}}&match=&CIK=&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany">
+					<i class='icon-eye-open'></i></a></td>
+			</tr>
+		{% endfor %}
+		</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+{% endif %}
+{% endblock %}

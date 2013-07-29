@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html" />
+	<title>UW Capstone</title>
+	<link rel='stylesheet' type='text/css' href='/static/bootstrap/css/bootstrap.css'>
+ 	<script src="/static/jquery.js"></script>
+ 	<script src="/static/bootstrap/js/bootstrap.js"></script>
+	<script type="text/javascript" src="/static/table.js"></script>
+ 	<script type="text/javascript" src="/static/sorttable.js"></script>
+ 	<style type="text/css">
+ 
+		.nav li a:hover {	
+			background-color: #41B6E6;
+		}
+
+		.navbar-inverse .container .nav li a:hover {	
+			background-color: #41B6E6;
+		}
+	</style>
+
+
+
+<!-- 
+	<script type="text/javascript">
+  		$(document).ready(function() {
+			$(".nav > li > a").hover(function() {
+				this.style.color = #671E75;
+			});
+		});
+	</script>
+ -->
+
+<!--	<script type="text/javascript" src="/static/table.js"></script> -->
+	{% block head %}
+<!-- 
+		<script type="text/javascript">
+			function activateTab(tab) {
+				tab.addClass('active');
+			}
+			$(document).ready(function() {
+				$('.nav li').click(activateTab(this)); 
+			});
+		</script>
+ -->
+
+	{% endblock %}
+</head>
+
+<body>
+<div class="container">
+<div id='masthead'>
+<img src="/static/bootstrap/css/blk_core_logo.png" >
+</div>
+</div>
+
+<div class="container">
+	<div class="navbar navbar-inverse">
+		<div class="navbar-inner">
+			<div class="container">
+				<div class="nav-collapse collapse">
+					<ul class="nav">
+						<li><a href="/">Home</a></li>
+						<li><a href="/about">About</a></li>
+						<li><a href="/formd">Form D</a></li>
+						<li><a href="/form497">Mutual Funds</a></li>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>		
+</div>	
+
+{% block body %}
+
+
+{% endblock %}
+
+
+</body>
+</html>

@@ -1,0 +1,220 @@
+{% extends 'base.html' %}
+{% block head %}
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		google.load('visualization', '1', {packages: ['corechart']});
+	</script>
+	{% if strat %}
+		<script type="text/javascript">
+			function drawVisualization() {
+				// var data = google.visualization.arrayToDataTable([
+				// 	['Month', 'Annual Return', 'Average'],
+				// 	['2003',  0.5133,	0.4],
+				// 	['2004',  0.2215,	0.2],
+				// 	['2005',  0.3479,	0.3],
+				// 	['2006',  0.2745,	0.2],
+				// 	['2007',  0.3769,	0.6],
+				// 	['2008',  -0.5358,	-1.1],
+				// 	['2009',  0.7508,	0.5],
+				// 	['2010',  0.1668,	0.2],
+				// 	['2011',  -0.177,	-0.3],
+				// 	['2012',  0.211,	0.8],
+				// ]);
+				{% for i in returns %}
+					{% if returns[i] != {} %}
+
+						var count = 0;
+						count += 1;
+						var a = 'Annual Return for ';
+						var c = '{{i}}';
+						var t = a.concat(c);
+						var data = google.visualization.arrayToDataTable([
+						['Month', 'Annual Return'],
+						{% for r in returns[i] %}
+							["{{r}}", {{returns[i][r]}}],
+						{% endfor %}
+						]);
+						var prettyColors = ['#009639', '#ED8B00', '#C05131', '#671E75', '#009CA6', '#005EB8', '#2DCCD3', '#41B6E6'];
+						oneColor = Math.floor((Math.random()*7));
+						anotherColor = Math.floor((Math.random()*7));
+						var options = {
+							title: t,
+							backgroundColor: '#EEEEEE',
+							colors: [prettyColors[oneColor], prettyColors[anotherColor]],
+							legend: {position:'none'},
+							chartArea: {left:42}
+						};
+						var chart = new google.visualization.AreaChart(document.getElementById('chart_div' + count));
+						chart.draw(data, options);						
+					{% endif %}
+
+				{% endfor %}	
+
+			}
+			{% if returns != [] %} google.setOnLoadCallback(drawVisualization); {% endif %}
+		</script>
+	{% endif %}
+	<script type="text/javascript">
+  		$(document).ready(function() {
+			$("#readMoreStrategy").on('click', function(){
+				$('#strategyIntro').remove();
+				$('#strategy').append("{{ strat|safe }}");
+			}); 
+		});
+		 $(document).ready(function() {
+			$("#readMoreRisk").on('click', function(){
+				$('#riskIntro').remove();
+				$('#risk').append("{{ risk|safe }}");
+			}); 
+		});
+	</script>
+
+{% endblock %}
+
+{% block body %}
+<body data-target="#navSpy" data-spy="scroll">
+<div class='container' id='form497Container'>
+
+<div class='row-fluid'>
+	<h1>&nbsp;Welcome!</h1> 
+	<p>&nbsp;&nbsp;&nbsp;This tool serves as a hub for mutual fund research. Find funds from Vanguard, Schwab, Fidelity and BlackRock.</p> 
+</div>
+<div class='row-fluid'>
+	<form method='post' action='{{ url_for('form497') }}' id=''>
+		<div class='form-horizontal'>
+	&nbsp;&nbsp;<input class='span5' id='fund_select' data-source='["{{ fundNames|join('", "') }}"]' data-items='6' data-provide='typeahead' autocomplete='off' name='fund_select' type='text' placeholder='Enter a mutual fund to research...'>
+		<button class='btn'><i class='icon-search'></i></button>
+		</div>
+	</form>
+</div>
+<hr>
+
+
+{% if strat %}
+	<div class='row-fluid'>
+	<div class='span12'>
+	<div class='span3'>		
+		<div id="navSpy" >
+			<ul class='affix nav nav-tabs nav-stacked span2' id='myTabs'>
+				<li class='active'>
+					<a href='#objective'>Objective</a>
+				</li>
+				<li>
+					<a href='#strategy'>Strategy</a>
+				</li>
+				<li>
+					<a href='#performance'>Performance</a>
+				</li>
+				<li>
+					<a href='#fees'>Fees</a>
+				</li>
+				<li>
+					<a href="#risk">Risk</a>
+				</li>
+				<li>
+					<a href='#expenses'>Expenses</a>
+				</li>								
+			</ul>
+		</div>
+	</div>
+	<div class='span9' data-spy="scroll" data-target="#navSpy">
+		<h2>{{ fundName }}</h2>
+		<div data-spy="scroll" data-target=".nav" id="objective">
+			<h3>Objective</h3>
+			<p>{% if obj != '' %} {{ obj|safe }} {% endif %}</p>
+			<p>{% if inceptionDate != '' %} Inception Date: {{inceptionDate}} {% else %} Inception Date Not Available {% endif %}</p>
+		</div>			
+		<div data-spy="scroll" data-target=".nav" id='strategy'>
+			<h3>Strategy</h3>
+			<div id='strategyIntro'>{{ introStrat|safe }}<a href="#strategy" id='readMoreStrategy'>...read more...</a></div>
+		</div>		
+		<div data-spy="scroll" data-target=".nav-pills" id='performance'>
+			<h3>Performance</h3>
+			{% if returns[0] == '' %} <p>Performance Data not available. {% endif %} 
+			<div id="chart_div1"></div>
+			<div id="chart_div2"></div>
+			<div id="chart_div3"></div>
+			<div id="chart_div4"></div>
+			<div id="chart_div5"></div>
+		</div>
+		<div id='fees'>
+			<h3>Fees</h3>
+			<table id="rounded-corner" class="sortable table table-hover">
+				<caption><small><em>Prospectus Data from {{ effectiveDate }}</em></small></caption>
+
+				<thead>
+				<th scope="col">Class</th>
+				<th scope="col">Acquired Fund Fees and Expenses</th>
+				<th scope="col">Distribution and Service (12b-1) Fees</th>
+				<th scope="col">Fee Waiver or Reimbursement</th>
+				<th scope="col">Management Fees</th>
+				<th scope="col">Redemption Fees</th>
+			<!-- 	<th scope="col"><a href="#" id='addNewTerm'>Add a Term</a></th>
+			 --><!-- 	<th scope="col" class="rounded-q4">Fee Waiver Or Reimbursement Over Assets</th>
+			 -->
+			 	</thead>
+				<tfoot>
+			    	<tr>
+			        	<td colspan="11" class="rounded-foot-left">&nbsp;</td>
+			        	<td class="rounded-foot-right">&nbsp;</td>
+			        </tr>
+				</tfoot>
+				{% for i in investorClasses %}
+					<tr id='results'>
+					<td>{{ i.Class }}</td>
+					<td align='right'>{{ fundFees[i][0] }}</td>
+					<td align='right'>{{ fundFees[i][1] }}</td>
+					<td align='right'>{{ fundFees[i][2] }}</td>
+					<td align='right'>{{ fundFees[i][3] }}</td>
+					<td align='right'>{{ fundFees[i][4] }}</td>
+					</tr>
+				{% endfor %}
+			</table>
+		</div>
+		<div id='risk'>
+			<h3>Risk</h3>
+			<div id='riskIntro'>{{ riskIntro|safe }}<a href="#risk" id="readMoreRisk">...read more...</a></div>
+		</div>
+		<div id="expenses">
+			<h3>Expenses</h3>
+				<table id="rounded-corner" class="sortable table table-hover">
+					<caption><small><em>Prospectus Data from {{ effectiveDate }}</em></small></caption>
+					<thead>
+					<th scope="col" class="rounded-q1">Class</th>
+					<th scope="col">Expenses</th>
+					<th scope="col">Management Expenses</th>
+					<th scope="col">Other Expenses</th>
+					<th scope="col">Total Annual Fund Operating Expenses</th>
+				 	</thead>
+					<tfoot>
+						<tr>
+					    	<td colspan="11" class="rounded-foot-left">&nbsp;</td>
+					    	<td class="rounded-foot-right">&nbsp;</td>
+					    </tr>
+					</tfoot>
+					{% for i in investorClasses %}
+						<tr id='results'>
+						<td>{{ i.Class }}</td>
+						<td align='right'>{{ fundExpenses[i][0] }}</td>
+						<td align='right'>{{ fundExpenses[i][1] }}</td>
+						<td align='right'>{{ fundExpenses[i][2] }}</td>
+						<td align='right'>{{ fundExpenses[i][3] }}</td>
+						</tr>
+					{% endfor %}
+				</table>
+		</div>
+	</div>
+
+{% endif %}
+
+
+
+{% if noSeries %}
+	<p>&nbsp;&nbsp;&nbsp;Unfortunately, we do not have that mutual fund in our database. We apologize for the inconvenience. <a href=''>Request a mutual fund</a>.</p>
+{% endif %}
+</div>
+
+</div>
+</div>
+</body>
+{% endblock %}
