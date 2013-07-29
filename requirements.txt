@@ -1,6 +1,5 @@
 Flask==0.9
 Flask-SQLAlchemy==0.16
-GnuPGInterface==0.3.2
 Jinja2==2.6
 PAM==0.4.2
 PIL==1.1.7
