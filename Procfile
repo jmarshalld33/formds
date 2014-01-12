@@ -1,1 +1,1 @@
-web: gunicorn senior-capstone:app
+web: gunicorn capstone:app
