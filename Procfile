@@ -1,1 +1,0 @@
-web: gunicorn calm-atoll-8641:app
